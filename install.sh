@@ -30,4 +30,8 @@ yay -S python-pywal16 # Run with 'wal' command
 pacman -S yt-dlp # Youtube downloader tool
 pacman -S system-config-printer
 
+# Programming
+yay -S cmake-language-server
+pacman -S lldb clang cmake
+
 xset r rate 250 40

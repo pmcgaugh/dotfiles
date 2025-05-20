@@ -1,4 +1,4 @@
-theme = "boo_berry"
+theme = "ayu_dark"
 
 [editor]
 line-number = "relative"
@@ -6,9 +6,11 @@ mouse = true
 cursorline = true
 lsp.display-inlay-hints = true
 bufferline = "multiple"
+end-of-line-diagnostics = "hint"
 
 [editor.inline-diagnostics]
 cursor-line = "hint"
+other-lines = "warning"
 
 [editor.cursor-shape]
 insert = "bar"
