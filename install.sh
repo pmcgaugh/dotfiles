@@ -2,7 +2,7 @@
 
 nvidia-inst
 sudo pacman -S nerd-fonts helix fish nushell xsel
-yay -S walker google-chrome superfile-bin zen-browser-bin gitkraken vesktop
+yay -S walker-bin google-chrome superfile-bin zen-browser-bin gitkraken vesktop-bin
 ln /usr/bin/helix /usr/bin/hx
 
 # Tiling Window Manager
@@ -35,5 +35,8 @@ yay -S cmake-language-server
 sudo pacman -S lldb clang cmake
 
 sudo pacman -S niri fuzzel network-manager-applet
+
+# Niri packages
+pacman -S niri fuzzel xwayland-satellite 
 
 xset r rate 250 40

@@ -18,7 +18,7 @@ normal = "block"
 select = "underline"
 
 [editor.file-picker]
-hidden = false
+hidden = true
 
 [keys.insert]
 j = { k = "normal_mode"}
