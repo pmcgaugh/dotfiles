@@ -1,3 +1,24 @@
+theme = "AlienBlood"
+shell-integration = fish
+initial-command = zellij
+mouse-scroll-multiplier = 0.5
+
+window-decoration = true
+window-padding-x = 8
+window-padding-y = 8
+
+background-opacity = 0.98
+font-feature = -liga
+
+# Unbind CMD+... keys so they will be forwarded to Zellij
+keybind = cmd+t=unbind
+keybind = cmd+n=unbind
+keybind = cmd+c=unbind
+keybind = cmd+w=unbind
+keybind = cmd+opt+left=unbind
+keybind = cmd+opt+right=unbind
+
+
 # This is the configuration file for Ghostty.
 #
 # This template file has been automatically created at the following

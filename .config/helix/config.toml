@@ -1,4 +1,4 @@
-theme = "ayu_dark"
+theme = "base16_transparent"
 
 [editor]
 line-number = "relative"
@@ -18,7 +18,7 @@ normal = "block"
 select = "underline"
 
 [editor.file-picker]
-hidden = true
+hidden = false
 
 [keys.insert]
 j = { k = "normal_mode"}

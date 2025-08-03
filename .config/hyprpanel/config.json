@@ -1,3 +1,6 @@
 {
-  "bar.customModules.updates.pollingInterval": 1440000
+  "bar.customModules.updates.pollingInterval": 1440000,
+  "bar.customModules.storage.paths": [
+    "/"
+  ]
 }
