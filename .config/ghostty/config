@@ -1,4 +1,13 @@
-theme = "AlienBlood"
+theme = "Alien Blood"
+#theme = "Nord"
+#theme = "Everblush"
+#theme = "Fahrenheit"
+#theme = "Solarized Dark Higher Contrast"
+#theme = "Lavandula"
+#theme = "Hardcore"
+#theme = "Sleepy Hollow"
+#theme = "Zenwritten Dark"
+#theme = "Neon"
 shell-integration = fish
 initial-command = zellij
 mouse-scroll-multiplier = 0.5
